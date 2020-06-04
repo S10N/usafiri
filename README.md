@@ -1,6 +1,6 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome USER_NAME,
+Welcome S10N,
 
 This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
@@ -37,3 +37,6 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+logo graphic
+<a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by vvstudio - www.freepik.com</a>
