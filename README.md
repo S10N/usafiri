@@ -38,5 +38,7 @@ We continually tweak and adjust this template to help give you the best experien
 
 Happy coding!
 
+Credits:
+
 logo graphic
 <a href="https://www.freepik.com/free-photos-vectors/background">Background vector created by vvstudio - www.freepik.com</a>
