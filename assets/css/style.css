@@ -1,3 +1,15 @@
+html, body {
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+body {
+   height: 100%;
+   overflow-x: hidden;
+}
+
 /*navbar styling*/
 
 .bg-color {
@@ -16,3 +28,6 @@
 .card{
     background-color: rgb(238, 113, 113);
 }
+
+/*flights*/
+

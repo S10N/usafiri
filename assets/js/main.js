@@ -1,4 +1,4 @@
-AIzaSyDsb_twYrLwd9vtFOSeEDptL4Ge9468lkI
+
 
 $('.carousel.carousel-multi-item .carousel-item').each(function(){
   var next = $(this).next();
