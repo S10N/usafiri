@@ -43,4 +43,16 @@ body {
     margin-top: 15px !important;
     padding-top: 4px !important;
 }
- 
+ /*hotels*/
+
+ /*flights*/
+
+
+
+#flights .SearchWidget__searchWidgetField___3CQOT{
+     padding-top: 15px;
+ }
+
+#flights .autosuggest-container{
+    padding-top: 15px;
+}
